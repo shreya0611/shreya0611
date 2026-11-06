@@ -14,7 +14,7 @@
 - 🌱 Currently learning: **[e.g. motion design / design systems]**
 - 👯 Open to collaborating on: **[freelance projects / startups]**
 - 💬 Ask me about: **Figma, interaction design, wireframing, branding, typography**
-- ⚡ Fun fact: **[something personal and memorable]**
+- ⚡ Fun fact: **I have more color palettes saved than I’ll ever use 🎨**
 
 ---
 
