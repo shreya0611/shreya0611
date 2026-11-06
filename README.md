@@ -11,7 +11,7 @@
 
 - 🎯 I design intuitive **UI/UX** for websites and mobile apps
 - 🖌️ I create **brand identities, posters, social media creatives and illustrations**
-- 🌱 Currently learning: **[e.g. motion design / design systems]**
+- 🌱 Currently learning: **motion design**
 - 👯 Open to collaborating on: **[freelance projects / startups]**
 - 💬 Ask me about: **Figma, interaction design, wireframing, branding, typography**
 - ⚡ Fun fact: **I have more color palettes saved than I’ll ever use 🎨**
@@ -21,12 +21,12 @@
 ### 🚀 Featured Projects
 
 #### 🌐 Cragslist: Website Redesign
-A redesign of the Craigslist-style classifieds website, focused on **[clearer navigation, a modern look, easier posting and searching]**.
+A redesign of the Craigslist-style classifieds website, focused on **clearer navigation, a modern look, easier posting and searching**.
 🔗 [View in Figma](https://www.figma.com/design/qZL7WNsRkiHnoNah5CDeQJ/INTERACTION-DESIGN?node-id=0-1&t=4pfmyGLs6TivmkDX-1)
 `Interaction Design` `Web` `Redesign`
 
 #### 🔺 Trikona: Product Design
-Design of **Trikona**, a product I created from scratch, covering **[branding, UI, key screens]**.
+Design of **Trikona**, a product I created from scratch, covering **product design ,key screens**.
 🔗 [View in Figma](https://www.figma.com/design/K9hARtSv0ivXwsvMUOcIHy/Untitled?node-id=0-1&t=MmeyBFWflouhueYw-1)
 `Product Design` `Branding` `UI`
 
@@ -45,7 +45,12 @@ A mobile app design for **CleanSpot**, helping users **[describe the core goal, 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-E8741E?style=for-the-badge&logo=autodesk&logoColor=white)
+![KeyShot](https://img.shields.io/badge/KeyShot-1F6FEB?style=for-the-badge&logoColor=white)
+![ShapesXR](https://img.shields.io/badge/ShapesXR-7B5CFF?style=for-the-badge&logoColor=white)
+
 
 ---
 
